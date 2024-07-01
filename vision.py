@@ -5,7 +5,7 @@ import streamlit as st
 import os 
 import google.generativeai as genai
 from PIL import Image
-genai.configure(api_key="AIzaSyB7EoZgkQycREL3fCZ6jSf3oA8EEFaTgzE")
+genai.configure(api_key="AIzaSyB7EoZgkQycREL3fCXXXXXX")
 
 
 # function to load gemini pro model and get response
